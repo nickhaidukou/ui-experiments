@@ -2,6 +2,8 @@
 Ours
 https://github.com/origin-space/ui-experiments/tree/main/apps/experiment-06
 
+https://full-calendar-steel.vercel.app/
+
 ![Layouts & UI Experiments](https://github.com/user-attachments/assets/81590804-81d5-47e0-a43b-701abab66a75)
 
 Check out the live demos of all the layouts and UI experiments, showcased in chronological order:
